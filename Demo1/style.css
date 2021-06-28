@@ -1,0 +1,20 @@
+
+        p{
+            color: chartreuse;
+        }
+        #p3{
+            color: chocolate;
+        }
+        .test{
+            width: 50%;
+            color: crimson;
+        }
+        .razmer{
+            font-size: 40px;
+        }
+        img{
+            width: 300px;
+            float: left;
+            padding: 10px;
+            margin: 5px;
+        }
